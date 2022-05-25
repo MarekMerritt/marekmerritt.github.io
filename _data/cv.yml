@@ -20,14 +20,14 @@ career:
    company: Transend, MSO
    location: Southfield, MI
    dates: March 2018 - Current
-   summary: Working within a team of three, supporting hundreds of users across 20 locations. Daily activites include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, package/patch management and creation of Group Policy via Microsoft Intune.
-   Other duties include manging FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaing proper documentation and automating repetative, mundane tasks.
+   summary: Working within a team of three, supporting hundreds of users across 20 locations. Daily activites include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, package/patch management and creation of Group Policy via Microsoft Intune. Other duties include manging FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaing proper documentation and automating repetative, mundane tasks.
    accomplishments:
     - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged AzureAD dynamic groups to grant access to specific users based on a number of variables.
     - accomplishment: Created myriad PowerShell and Python scripts to automate repetative tasks and standardize workflow.
-    - accomplishment: Implemented entirely new system of endpoint management, from the ground up, by leveraging Microsoft Intune MDM.
+    - accomplishment: Implemented entirely new system of endpoint management, from the ground up, by leveraging Microsoft Intune.
     - accomplishment: Rebuilt aging network infrastructure by replacing outdated/underpowered APs, switches and firewalls with modern, enterprise-grade hardware.
     - accomplishment: Streamlined logging capabilities by deploying technologies such as Sysmon and O365 Cloud Discovery.
+    - accomplishment: Hardened security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
 
 technicalSkills:
   list:
@@ -37,10 +37,9 @@ technicalSkills:
     - tr: "Storage Systems (RAID, ZFS, BTRFS)"
     - tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
     - tr: "Container Technologies (Docker, LXC)"
-    - tr: "Networking (TCP/IP, DNS, subnetting)"
+    - tr: "Networking and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central Console)"
     - tr: "Backup Software (rsync, OneDrive, Carbonite)"
     - tr: "Mobile Device Management (Microsoft Intune, SCCM)"
-    - tr: "Firewall Administration (Sophos Central, Cyberoam Central Console)"
   backend:
    - name: GNU/Linux
      level: 80
