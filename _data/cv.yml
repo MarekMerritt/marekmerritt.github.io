@@ -35,7 +35,7 @@ technicalSkills:
     - tr: "Shell Scripting (PowerShell, BASH, Python, Ruby)"
     - tr: "Cyber Security (Kali, Nmap, WebRoot, CyberCNS Agent V2)"
     - tr: "Storage Systems (RAID, ZFS, BTRFS)"
-    - tr: "Virtualization (Hyper-V, KVM, VMWare)"
+    - tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
     - tr: "Container Technologies (Docker, LXC)"
     - tr: "Networking (TCP/IP, DNS, subnetting)"
     - tr: "Backup Software (rsync, OneDrive, Carbonite)"
