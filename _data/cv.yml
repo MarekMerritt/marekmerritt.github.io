@@ -19,7 +19,7 @@ career:
  - position: IT Administrator
    company: Transend, MSO
    location: Southfield, MI
-   dates: March 2018 - Current
+   dates: 2018 - Current
    summary: Working within a team of three, supporting hundreds of users across 20 locations. Daily activities include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, package/patch management and creation of Group Policy via Microsoft Intune. Other duties include managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive, mundane tasks.
    accomplishments:
     - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged AzureAD dynamic groups to grant access to specific users based on a number of variables.
@@ -28,6 +28,11 @@ career:
     - accomplishment: Rebuilt aging network infrastructure by replacing outdated/underpowered APs, switches and firewalls with modern, enterprise-grade hardware.
     - accomplishment: Streamlined logging capabilities by deploying technologies such as Sysmon and O365 Cloud Discovery.
     - accomplishment: Hardened security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
+ - position: IT Support Technician
+   company: InsideOut Networking
+   location: Troy, MI
+   dates: 2017 - 2018
+   summary: Entry-level position with a regional provider offering managed IT services to business and residential clients. Main duties included leveraging remote access software to troubleshoot common software, repairing and deploying PCs, hardware and network troubleshooting, and miscellaneous administrative tasks.
 
 technicalSkills:
   list:
