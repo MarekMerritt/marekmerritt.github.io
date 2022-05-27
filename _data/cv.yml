@@ -33,7 +33,8 @@ career:
    location: Troy, MI
    dates: 2017 - 2018
    summary: Entry-level position with a regional provider offering managed IT services to business and residential clients. Main duties included leveraging remote access software to troubleshoot common software, repairing and deploying PCs, hardware and network troubleshooting, and miscellaneous administrative tasks.
-
+   accomplishments:
+    
 technicalSkills:
   list:
     - tr: "Authentication (AzureAD, SAML, SSO)"
