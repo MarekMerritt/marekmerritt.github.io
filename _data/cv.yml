@@ -28,13 +28,6 @@ career:
     - accomplishment: Rebuilt aging network infrastructure by replacing outdated/underpowered APs, switches and firewalls with modern, enterprise-grade hardware.
     - accomplishment: Streamlined logging capabilities by deploying technologies such as Sysmon and O365 Cloud Discovery.
     - accomplishment: Hardened security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
- - position: IT Support Technician
-   company: InsideOut Networking
-   location: Troy, MI
-   dates: 2017 - 2018
-   summary: Entry-level position with a regional provider offering managed IT services to business and residential clients. Main duties included leveraging remote access software to troubleshoot common software, repairing and deploying PCs, hardware and network troubleshooting, and miscellaneous administrative tasks.
-   accomplishments:
-    - accomplishment:
     
 technicalSkills:
   list:
