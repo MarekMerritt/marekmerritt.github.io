@@ -20,9 +20,9 @@ career:
    company: Transend, MSO
    location: Southfield, MI
    dates: 2018 - Current
-   summary: Working within a team of two, supporting hundreds of users across 20 locations. Daily activities include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, MFP troubleshooting, package/patch management and creation of Group Policy. Other duties include managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive, mundane tasks.
+   summary: Working within a team of two, supporting hundreds of users across 20 locations. Daily activities include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, MFP troubleshooting, package/patch management and creation of Group Policy. Other duties include managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive tasks.
    accomplishments:
-    - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged AzureAD dynamic groups to grant access to specific users based on a number of variables.
+    - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged Azure AD dynamic groups to grant access to specific users based on a number of variables.
     - accomplishment: Created myriad PowerShell and Python scripts to automate repetative tasks and standardize workflow.
     - accomplishment: Implemented entirely new system of endpoint management, from the ground up, by leveraging Microsoft Intune.
     - accomplishment: Rebuilt aging network infrastructure by replacing outdated/underpowered APs, switches and firewalls with modern, enterprise-grade hardware.
@@ -31,9 +31,9 @@ career:
     
 technicalSkills:
   list:
-    - tr: "Authentication (AzureAD, SAML, SSO)"
-    - tr: "Shell Scripting (PowerShell, BASH, Python, Ruby)"
-    - tr: "Cyber Security (Kali, Nmap, WebRoot, CyberCNS Agent V2)"
+    - tr: "Authentication (Azure AD, SAML, SSO)"
+    - tr: "Shell Scripting (PowerShell, BASH, Python)"
+    - tr: "Cyber Security (Nmap, WebRoot, CyberCNS Agent V2)"
     - tr: "Storage Systems (RAID, ZFS, BTRFS)"
     - tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
     - tr: "Container Technologies (Docker, LXC)"
