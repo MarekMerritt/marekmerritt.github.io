@@ -16,11 +16,25 @@ person:
   linkedin:
 
 career:
+ - position: IT Analyst
+   company: Avenu Technologies, Inc.
+   location: St. George, UT
+   dates: 2022 - Current
+   summary: Working in tandem with an global support team based in Cape Town, South Africa, supporting hundreds of users across the United States and beyond. Daily activities include administration of corporate Google Worspace and Office 365 tenants, imaging/deploying PCs via mobile device management, Slack administration, conducting onboarding procedures, drafting documentation, developing Group Policy and streamlining existing infrastructure.
+   accomplishments:
+    - accomplishment: Developed a number of automated tasks for administrative purposes, including continual reports on usage of Windows 365 Cloud PCs to reduce licening costs.
+    - accomplishment: Lead routine audit of duplicate Google Workspace and O365 accounts to reduce operating costs.
+    - accomplishment: Implemented further security measures for O365 (enforce MFA, geoblocking, EOP mail filtering, etc.) to improve security posture.
+    - accomplishment: Primary point of contact for stateside support.
+    - accomplishment: Implemented Windows Autopilot to streamline onboarding procedures. Automated application configuration on managed endpoints to improve end-user experience.
+    - accomplishment: Implemented and administrated JAMF for macOS administration.
+
+career:
  - position: Senior IT Administrator
    company: Transend, MSO
    location: Southfield, MI
    dates: 2018 - Current
-   summary: Working within a team of two, supporting hundreds of users across 20 locations. Daily activities include administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, MFP troubleshooting, package/patch management and creation of Group Policy. Other duties include managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive tasks.
+   summary: Worked within a team of two, supporting hundreds of users across 20 locations. Daily activities included administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, MFP troubleshooting, package/patch management and creation of Group Policy. Other duties included managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive tasks.
    accomplishments:
     - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged Azure AD dynamic groups to grant access to specific users based on a number of variables.
     - accomplishment: Created myriad PowerShell and Python scripts to automate repetative tasks and standardize workflow.
@@ -37,9 +51,9 @@ technicalSkills:
     - tr: "Storage Systems (RAID, ZFS, BTRFS)"
     - tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
     - tr: "Container Technologies (Docker, LXC)"
-    - tr: "Networking and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central Console)"
+    - tr: "Networking and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central Console, pfSense, OpenVPN)"
     - tr: "Backup Software (rsync, OneDrive, Carbonite)"
-    - tr: "Mobile Device Management (Microsoft Intune, SCCM)"
+    - tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
   backend:
    - name: GNU/Linux
      level: 80
