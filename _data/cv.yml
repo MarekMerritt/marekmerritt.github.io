@@ -31,7 +31,7 @@ career:
  - position: Senior IT Administrator
    company: Transend, MSO
    location: Southfield, MI
-   dates: 2018 - Current
+   dates: 2018 - 2022
    summary: Worked within a team of two, supporting hundreds of users across 20 locations. Daily activities included administration of the corporate Office 365 tenant, software/hardware deployment, managing network access and security, MFP troubleshooting, package/patch management and creation of Group Policy. Other duties included managing FoIP/VoIP, providing end-user support, Exchange Online administration, creating and maintaining proper documentation and automating repetitive tasks.
    accomplishments:
     - accomplishment: Performed migration from GoDaddy Online Storage to SharePoint Online. Leveraged Azure AD dynamic groups to grant access to specific users based on a number of variables.
