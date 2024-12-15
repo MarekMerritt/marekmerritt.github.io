@@ -3,15 +3,15 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Mark Merritt
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  profession: Information Technology
+  location: Royal Oak, MI
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
+  email: mmerritt@alumni.nmu.edu
+  site: https://marekmerritt.github.io
+  phone: (947) 777-3576
+  github: /marekmerritt
   stackoverflow: /streetturtle
   linkedin: /streetturtle
 
