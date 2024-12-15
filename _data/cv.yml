@@ -3,76 +3,91 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Micha
+  name: Mark Merritt
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  profession: Information Technology
+  location: Royal Oak, MI
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  email: mmerritt@alumni.nmu.edu
+  site:
+  phone: (947) 777-3576
+  github: /MarekMerritt
+  stackoverflow:
+  linkedin:
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+ - position: IT Analyst
+   company: Avenu Technologies, Inc.
+   location: St. George, UT
+   dates: 2022 - Current
+   summary: Hands-on role providing remote system administration and technical support for international operations.
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Shredder enemy
-   company: TMNT
-   location: New York, USA
-   dates: October 2012 – September 2014
-   summary: Impulsive, creative and very social, Michelangelo is the heart and soul of the Ninja Turtles. The runt of the litter, he may be the smallest of his mutant brothers, but that doesn't make him the weakest (just harder to catch). Enemies beware! Michelangelo is a master of the Kusarigama, nunchucks with a secret and sharp surprise!
+	- accomplishment: Senior administrator of corporate Google Workspace and Microsoft 365 tenants.
+	- accomplishment: Resolved 100+ monthly Jira issues within the set SLA achieving a 97 percent user-satisfaction rating.
+	- accomplishment: Led the effort to streamline onboarding procedure across organization by leveraging Microsoft Intune/Windows Autopilot and Apple Business Manager/JAMF.
+	- accomplishment: Worked closely with DevOps team in South Africa to monitor and maintain Nagios and Docker infrastructure.
+	- accomplishment: Hardened security posture by analyzing routine audits, enforcing GPO on managed devices, and by implementing VaultWarden for all end users.
+	- accomplishment:
+ - position: Senior IT Administrator
+   company: Transend, MSO
+   location: Southfield, MI
+   dates: 2018 - 2022
+   summary: Served as senior administrator for a mental-health provider with numerous locations across Michigan. Managed multifaceted system issues and performed on-site and remote technical support.
    accomplishments:
-    - accomplishment: Mikey's skills as a skateboarder and a ninja give him a great ability with balance.
-    - accomplishment: He has the normal ability of a turtle to go into his shell.
+	- accomplishment: Migrated all corporate data from GoDaddy Online Storage to SharePoint Online.
+	- accomplishment: Developed PowerShell and Python scripts to automate repetitive tasks and standardize hundreds of devices.
+	- accomplishment: Implemented entirely new system of endpoint management by leveraging Microsoft 365/Microsoft Intune.
+	- accomplishment: Rebuilt aging network infrastructure by replacing outdated APs, switches and firewalls with modern, enterprise-grade hardware.
+	- accomplishment: Streamlined logging capabilities via Sysmon and O365 Cloud Discovery.
+	- accomplishment: Hardened security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
+ - position: IT Support Technician
+   company: InsideOut Networking
+   location: Troy, MI
+   dates: 2016 - 2018
+   summary: Support tech for a managed services provider offering computer networking, support, and repairs, plus data recovery and security services.
+   accomplishments:
+	- accomplishment: Assisted in the design, delivery and improvement of system-wide support and training.
+	- accomplishment: Provided onsite and remote technical support for dozens of clients across the Detroit metropolitan area.
+	- accomplishment: Devised new internal documentation process, increasing team efficiency.
+	- accomplishment: Identified cost-effective repair solutions and provided updates on the disposition of equipment.
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+	- tr: "Authentication (Azure AD, SAML, SSO)"
+	- tr: "Shell Scripting (PowerShell, BASH, Python)"
+	- tr: "Cyber Security (Nmap, WebRoot, CyberCNS Agent V2)"
+	- tr: "Storage Systems (RAID, ZFS, BTRFS)"
+	- tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
+	- tr: "Container Technologies (Docker, LXC)"
+	- tr: "Networking and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central Console, pfSense, OpenVPN)"
+	- tr: "Backup Software (rsync, OneDrive, Carbonite)"
+	- tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
+   - name: GNU/Linux
+ 	level: 80
+   - name: Windows Server
+ 	level: 80
   frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
-     level: 90
+   - name: HTML/CSS
+ 	level: 80
+   - name: Apache/NGINX
+ 	level: 90
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
-     level: 100
+   - name: PowerShell
+ 	level: 90
+   - name: BASH
+ 	level: 75
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
-    type: github
-    langs: HTML/CSS/Bootstrap
-
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+  - name:
+    description: 
+    link: 
+    type: 
+    langs:
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Northern Michigan University
+	degree: Bachelor of Science, Cum Laude
+	location: Marquette, MI
+	dates: 2010 – 2014
+	link: https://nmu.edu/
