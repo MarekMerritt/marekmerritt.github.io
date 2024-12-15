@@ -64,15 +64,9 @@ sideProjects:
     type: 
     langs: 
 
-  - name: 
-    description: 
-    link: 
-    type: 
-    langs: 
-
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Northern Michigan University
+    degree: Bachelor of Science
+    location: Marquette, MI
+    dates: 2010 – 2014
+    link: https://nmu.edu
