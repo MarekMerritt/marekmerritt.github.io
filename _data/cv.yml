@@ -35,26 +35,26 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
+    - tr: "Authentication (Microsoft Entra, SAML, SSO)"
+    - tr: "Shell Scripting (PowerShell, BASH, Python)"
+    - tr: "Virtualization (Proxmox VE, Hyper-V, KVM)"
+    - tr: "Container Technologies (Docker, LXC)"
+    - tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense)"
+    - tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
+   - name: GNU/Linux
+     level: 88
+   - name: Windows Server
      level: 80
   frontend:
-   - name: Cooking Skills
+   - name: HTML/CSS
      level: 80
-   - name: Pranks
+   - name: Apache/NGINX
      level: 90
   other:
-   - name: Shadow Puppet Skill
+   - name: Powershell
      level: 90
-   - name: Teaching
+   - name: BASH
      level: 100
      
 sideProjects:
