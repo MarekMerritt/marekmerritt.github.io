@@ -4,7 +4,7 @@ projectUrl: jekyl-cv-crafter
 # leave blank fields which you don't want to fill/be displayed
 person:
   name: Mark Merritt
-  depiction: headshot.png
+  depiction:
   profession: Information Technology
   location: Royal Oak, MI
   citizenship: USA
