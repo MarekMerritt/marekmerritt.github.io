@@ -12,8 +12,8 @@ person:
   site: https://marekmerritt.github.io
   phone: (947) 777-3576
   github: /marekmerritt
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  stackoverflow:
+  linkedin:
 
 career:
  - position: IT Analyst
