@@ -35,31 +35,28 @@ career:
 
 technicalSkills:
   list:
-	- tr: "Authentication (Azure AD, SAML, SSO)"
-	- tr: "Shell Scripting (PowerShell, BASH, Python)"
-	- tr: "Cyber Security (Nmap, WebRoot, CyberCNS Agent V2)"
-	- tr: "Storage Systems (RAID, ZFS, BTRFS)"
-	- tr: "Virtualization (Hyper-V, KVM, Proxmox VE)"
-	- tr: "Container Technologies (Docker, LXC)"
-	- tr: "Networking and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central Console, pfSense, OpenVPN)"
-	- tr: "Backup Software (rsync, OneDrive, Carbonite)"
-	- tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
+    - tr: "Impulsive, creative and very social"
+    - tr: "Heart and soul of the Ninja Turtles"
+    - tr: "Master of the Kusarigama and nunchucks"
+    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
+    - tr: "First of the turtles to taste pizza"
+    - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: GNU/Linux
- 	level: 80
-   - name: Windows Server
- 	level: 80
+   - name: Ninjutsu
+     level: 90
+   - name: Kusarigama
+     level: 80
   frontend:
-   - name: HTML/CSS
- 	level: 80
-   - name: Apache/NGINX
- 	level: 90
+   - name: Cooking Skills
+     level: 80
+   - name: Pranks
+     level: 90
   other:
-   - name: PowerShell
- 	level: 90
-   - name: BASH
- 	level: 75
-
+   - name: Shadow Puppet Skill
+     level: 90
+   - name: Teaching
+     level: 100
+     
 sideProjects:
   - name: jekyll-clean-dark
     description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
