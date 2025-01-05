@@ -27,7 +27,7 @@ career:
     - accomplishment: Led the effort to streamline onboarding procedure across organization by leveraging Microsoft Intune/Windows Autopilot and Apple Business Manager/JAMF.
     - accomplishment: Worked closely with DevOps team in South Africa to monitor and maintain Nagios and Docker infrastructure.
     - accomplishment: Hardened security posture by analyzing routine audits, enforcing GPO on managed devices, and by implementing VaultWarden for all end users.
- - position: IT Analyst
+ - position: System Administrator
    company: Transend MSO
    location: Southfield, MI
    dates: 2018 - 2022
