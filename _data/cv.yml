@@ -52,40 +52,40 @@ career:
     
 technicalSkills:
   list:
-	- tr: "Authentication (Microsoft Entra, SAML, AzureAD SSO, LAPS)"
-	- tr: "FOIP/VOIP & communication technologies (Zoiper, RightFax, Slack, Microsoft Teams, Exchange, Zoom)"
-	- tr: "Virtualization (Proxmox VE, Hyper-V, KVM, VMWare)"
-	- tr: "Container Technologies (Docker, LXC)"
-	- tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense, Ubiquiti)"
-	- tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
+    - tr: "Authentication (Microsoft Entra, SAML, SSO)"
+    - tr: "Shell Scripting (PowerShell, BASH, Python)"
+    - tr: "Virtualization (Proxmox VE, Hyper-V, KVM)"
+    - tr: "Container Technologies (Docker, LXC)"
+    - tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense)"
+    - tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
   backend:
    - name: Microsoft 365
- 	level: 90
+     level: 90
    - name: Google Workspace
- 	level: 88
+     level: 88
   frontend:
    - name: HTML/CSS
- 	level: 85
-   - name: Markup (YML, XML, LaTeX)
- 	level: 88
+     level: 85
+   - name: YML, XML, LaTeX
+     level: 90
   other:
    - name: Powershell
- 	level: 95
+     level: 95
    - name: BASH
- 	level: 90
-	 
+     level: 90
+     
 sideProjects:
-  - name: OpenWebRX
-	description: 24/7 live-streaming hamband & FM radio, rebroadcast from Detroit on 70cm/2m
-	link: https://taro.0xfdb.xyz/ham
-	type: web-based software defined radio
-	langs:
+  - name: 
+    description: 
+    link: 
+    type: 
+    langs: 
 
 education:
   - name: Northern Michigan University
-	degree: Bachelor of Science
-	location: Marquette, MI
-	dates: 2010 – 2014
-	link: https://nmu.edu/
-	club: Unix User Group
-	rank: member
+    degree: Bachelor of Science
+    location: Marquette, MI
+    dates: 2010 – 2014
+    link: https://nmu.edu/
+    club: Unix User Group
+    rank: member
