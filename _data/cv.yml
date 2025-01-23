@@ -78,11 +78,11 @@ technicalSkills:
      level: 90
      
 sideProjects:
-  - name: 
-    description: 
-    link: 
-    type: 
-    langs: 
+  - name: OpenWebRX
+    description: hamband radio re-broadcast from Detroit on 70cm/2m.
+    link: https://taro.0xfdb.xyz/ham
+    type: Software-Defined Radio
+    langs: Python, CSS, HTML, JavaScript, Shell
 
 education:
   - name: Northern Michigan University
