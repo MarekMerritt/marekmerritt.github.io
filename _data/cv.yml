@@ -19,7 +19,7 @@ career:
  - position: IT Analyst
    company: Avenu Technologies, Inc.
    location: St. George, UT
-   dates: 2022 - current
+   dates: 2022 - 2025
    summary: Hands-on role providing remote system administration and technical support for international operations.
    accomplishments:
     - accomplishment: Senior administrator of corporate Google Workspace and Microsoft 365 tenants.
@@ -27,6 +27,8 @@ career:
     - accomplishment: Designed and implemented zero-touch device deployment strategy through Windows Autopilot and configured automatic user provisioning in AzureAD, allowing for touchless remote onboardings.
     - accomplishment: Deployed and maintained Microsoft Intune and JAMF for internal macOS and Windows endpoint configuration, enrollment, package deployment and remote management / monitoring.
     - accomplishment: Configured and enforced zero-trust security architecture for cloud resources, leveraging Microsoft EMS, AzureAD MFA and Conditional Access.
+    - accomplishment: Worked closely with DevOps team in Cape Town, South Africa to monitor and maintain DevOps infrastructure (Nagios, Docker).
+    - accomplishment: Leveraged PowerShell and BASH to implement proactive remediations and configure remote macOS and Windows endpoints.
  - position: System Administrator
    company: Transend MSO
    location: Southfield, MI
@@ -36,9 +38,10 @@ career:
     - accomplishment: Migrated all corporate data from GoDaddy Online Storage to SharePoint Online.
     - accomplishment: Developed PowerShell and Python scripts to automate repetitive tasks and standardize hundreds of devices.
     - accomplishment: Implemented entirely new system of endpoint management by leveraging Microsoft 365/Microsoft Intune.
-    - accomplishment: Rebuilt aging network infrastructure by replacing outdated APs, switches and firewalls with modern, enterprise-grade hardware.
+    - accomplishment: Rebuilt network infrastructure by replacing outdated APs, switches and firewalls with modern, enterprise-grade hardware.
     - accomplishment: Streamlined logging capabilities via Sysmon and O365 Cloud Discovery.
-    - accomplishment: Hardened security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
+    - accomplishment: Bolstered security posture by implementing AppLocker, BitLocker encryption, MFA and multi-layered security policies for managed applications.
+    - accomplishment: Configured LAPS policy on all corporate endpoints to rotate and randomize local user admin credentials.
  - position: IT Support Technician
    company: InsideOut Networking
    location: Troy, MI
