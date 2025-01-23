@@ -52,9 +52,9 @@ career:
     
 technicalSkills:
   list:
-    - tr: "Authentication (Microsoft Entra, SAML, SSO)"
-    - tr: "Shell Scripting (PowerShell, BASH, Python)"
-    - tr: "Virtualization (Proxmox VE, Hyper-V, KVM)"
+    - tr: "Authentication (Microsoft Entra, SAML, AzureAD SSO, LAPS)"
+    - tr: "FOIP, VOIP & Communications technology (Zoiper, RightFax, Microsoft Teams, Exchange, Zoom)"
+    - tr: "Virtualization (Proxmox VE, Hyper-V, KVM, VMWare)"
     - tr: "Container Technologies (Docker, LXC)"
     - tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense)"
     - tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
