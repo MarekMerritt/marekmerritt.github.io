@@ -22,12 +22,11 @@ career:
    dates: 2022 - current
    summary: Hands-on role providing remote system administration and technical support for international operations.
    accomplishments:
-	  - accomplishment: Senior administrator of corporate Google Workspace and Microsoft 365 tenants.
-	  - accomplishment: Resolved 100+ monthly Jira issues within the set SLA achieving a 97 percent user-satisfaction rating.
-	  - accomplishment: Designed and implemented zero-touch device deployment strategy through Windows Autopilot and configured automatic user provisioning in AzureAD, allowing for touchless remote onboardings.
-	  - accomplishment: Deployed and maintained Microsoft Intune and JAMF for internal macOS and Windows endpoint configuration, enrollment, package deployment and remote management / monitoring.
-	  - accomplishment: Worked closely with DevOps team in Cape Town, South Africa to monitor and maintain DevOps infrastructure (Nagios, Docker).
-	  - accomplishment: Configured and enforced zero-trust security architecture for cloud resources, leveraging Microsoft EMS, AzureAD MFA and Conditional Access.
+    - accomplishment: Senior administrator of corporate Google Workspace and Microsoft 365 tenants.
+    - accomplishment: Resolved 100+ monthly Jira issues within the set SLA achieving a 97 percent user-satisfaction rating.
+    - accomplishment: Led the effort to streamline onboarding procedure across organization by leveraging Microsoft Intune/Windows Autopilot and Apple Business Manager/JAMF.
+    - accomplishment: Worked closely with DevOps team in South Africa to monitor and maintain Nagios and Docker infrastructure.
+    - accomplishment: Hardened security posture by analyzing routine audits, enforcing GPO on managed devices, and by implementing VaultWarden for all end users.
  - position: System Administrator
    company: Transend MSO
    location: Southfield, MI
@@ -53,40 +52,40 @@ career:
     
 technicalSkills:
   list:
-    - tr: "Authentication (Microsoft Entra, SAML, AzureAD SSO, LAPS)"
-    - tr: "FOIP, VOIP & Communications technology (Zoiper, RightFax, Microsoft Teams, Exchange, Zoom)"
-    - tr: "Virtualization (Proxmox VE, Hyper-V, KVM, VMWare)"
-    - tr: "Container Technologies (Docker, LXC)"
-    - tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense)"
-    - tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
+	- tr: "Authentication (Microsoft Entra, SAML, AzureAD SSO, LAPS)"
+	- tr: "FOIP/VOIP & communication technologies (Zoiper, RightFax, Slack, Microsoft Teams, Exchange, Zoom)"
+	- tr: "Virtualization (Proxmox VE, Hyper-V, KVM, VMWare)"
+	- tr: "Container Technologies (Docker, LXC)"
+	- tr: "Network and Firewall Administration (TCP/IP, DNS, subnetting, Sophos Central, Cyberoam Central, pfSense, Ubiquiti)"
+	- tr: "Mobile Device Management (Microsoft Intune, SCCM, JAMF)"
   backend:
    - name: Microsoft 365
-     level: 90
+ 	level: 90
    - name: Google Workspace
-     level: 88
+ 	level: 88
   frontend:
    - name: HTML/CSS
-     level: 85
-   - name: YML, XML, LaTeX
-     level: 90
+ 	level: 85
+   - name: Markup (YML, XML, LaTeX)
+ 	level: 88
   other:
    - name: Powershell
-     level: 95
+ 	level: 95
    - name: BASH
-     level: 90
-     
+ 	level: 90
+	 
 sideProjects:
-  - name: 
-    description: 
-    link: 
-    type: 
-    langs: 
+  - name: OpenWebRX
+	description: 24/7 live-streaming hamband & FM radio, rebroadcast from Detroit on 70cm/2m
+	link: https://taro.0xfdb.xyz/ham
+	type: web-based software defined radio
+	langs:
 
 education:
   - name: Northern Michigan University
-    degree: Bachelor of Science
-    location: Marquette, MI
-    dates: 2010 – 2014
-    link: https://nmu.edu/
-    club: Unix User Group
-    rank: member
+	degree: Bachelor of Science
+	location: Marquette, MI
+	dates: 2010 – 2014
+	link: https://nmu.edu/
+	club: Unix User Group
+	rank: member
