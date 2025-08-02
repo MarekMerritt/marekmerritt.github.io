@@ -6,11 +6,11 @@ person:
   name: Mark Merritt
   depiction:
   profession: Information Technology
-  location: Royal Oak, MI
+  location:
   citizenship: USA
-  email: mmerritt@alumni.nmu.edu
+  email:
   site: https://marekmerritt.github.io
-  phone: (947) 777-3576
+  phone:
   github: /marekmerritt
   stackoverflow:
   linkedin:
